@@ -1,0 +1,6 @@
+**/tests
+**/k8s_resources
+*.md
+*.pyc
+*.sh
+Dockerfile
